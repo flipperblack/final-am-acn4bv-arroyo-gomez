@@ -26,6 +26,9 @@ replay_pid*
 # configuracion del sdk
 .gradle/config.properties
 config.properties
+local.properties
+
+
 
 .*
 !/.gitignore

@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.grupofacil"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\1c981cacaf211a05fae97b7272486038\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.grupofacil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\1c981cacaf211a05fae97b7272486038\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\1c981cacaf211a05fae97b7272486038\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.grupofacil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\1c981cacaf211a05fae97b7272486038\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\1c981cacaf211a05fae97b7272486038\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:6:5-40:19
+18        android:allowBackup="true"
+18-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:7:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\proprietario\.gradle\caches\transforms-3\1c981cacaf211a05fae97b7272486038\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:8:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:9:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:10:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:11:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:12:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:13:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.GrupoFacil" >
+29-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:14:9-48
+30        <activity
+30-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:17:9-86
+31            android:name="com.example.grupofacil.ResumenActivity"
+31-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:17:19-50
+32            android:exported="true" />
+32-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:17:51-74
+33        <activity
+33-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:18:9-92
+34            android:name="com.example.grupofacil.ConfiguracionActivity"
+34-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:18:19-56
+35            android:exported="true" />
+35-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:18:57-80
+36        <activity
+36-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:9-92
+37            android:name="com.example.grupofacil.ParticipantesActivity"
+37-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:19-56
+38            android:exported="true" />
+38-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:19:57-80
+39        <activity
+39-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:20:9-90
+40            android:name="com.example.grupofacil.DescripcionActivity"
+40-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:20:19-54
+41            android:exported="true" />
+41-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:20:55-78
+42        <activity
+42-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:9-85
+43            android:name="com.example.grupofacil.NombreActivity"
+43-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:19-49
+44            android:exported="true" />
+44-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:21:50-73
+45        <activity
+45-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:22:9-87
+46            android:name="com.example.grupofacil.VerGrupoActivity"
+46-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:22:19-51
+47            android:exported="true" />
+47-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:22:52-75
+48
+49        <!-- LoginActivity -->
+50        <activity
+50-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:25:9-32:20
+51            android:name="com.example.grupofacil.LoginActivity"
+51-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:26:13-42
+52            android:exported="true" >
+52-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:27:13-36
+53            <intent-filter>
+53-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:28:13-31:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:29:17-69
+54-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:29:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:30:17-77
+56-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:30:27-74
+57            </intent-filter>
+58        </activity>
+59
+60        <!-- MainActivity -->
+61        <activity
+61-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:35:9-83
+62            android:name="com.example.grupofacil.MainActivity"
+62-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:35:19-47
+63            android:exported="true" />
+63-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:35:48-71
+64
+65        <meta-data
+65-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:37:9-39:57
+66            android:name="preloaded_fonts"
+66-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:38:13-43
+67            android:resource="@array/preloaded_fonts" />
+67-->C:\Users\proprietario\Local Sites\maqueta2\final-am-acn4bv-arroyo-gomez\app\src\main\AndroidManifest.xml:39:13-54
+68
+69        <provider
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+71            android:authorities="com.example.grupofacil.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\proprietario\.gradle\caches\transforms-3\b434d91b7a35e8b4d5f601b6c183fa42\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\proprietario\.gradle\caches\transforms-3\83cc24653f5354aacca69a7d06bc67e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\proprietario\.gradle\caches\transforms-3\83cc24653f5354aacca69a7d06bc67e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+78                android:value="androidx.startup" />
+78-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\proprietario\.gradle\caches\transforms-3\83cc24653f5354aacca69a7d06bc67e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+81                android:value="androidx.startup" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+82        </provider>
+83
+84        <receiver
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+86            android:directBootAware="false"
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+87            android:enabled="true"
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+88            android:exported="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+89            android:permission="android.permission.DUMP" >
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+97                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+100                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\proprietario\.gradle\caches\transforms-3\d3c1646fc36935bb7693598fad3032e7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+101            </intent-filter>
+102        </receiver>
+103    </application>
+104
+105</manifest>
