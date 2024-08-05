@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.grupofacil">
 
+    <!-- Permiso para acceder a Internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -15,7 +17,6 @@
         android:theme="@style/Theme.GrupoFacil"
         tools:targetApi="31">
 
-
         <activity android:name=".ResumenActivity" android:exported="true"></activity>
         <activity android:name=".ConfiguracionActivity" android:exported="true"></activity>
         <activity android:name=".ParticipantesActivity" android:exported="true"></activity>
@@ -23,9 +24,9 @@
         <activity android:name=".NombreActivity" android:exported="true"></activity>
         <activity android:name=".VerGrupoActivity" android:exported="true"></activity>
 
-
+        <!-- LoginActivity -->
         <activity
-            android:name=".MainActivity"
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,12 +34,12 @@
             </intent-filter>
         </activity>
 
+        <!-- MainActivity -->
+        <activity android:name=".MainActivity" android:exported="true"></activity>
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
     </application>
 
-
 </manifest>
-

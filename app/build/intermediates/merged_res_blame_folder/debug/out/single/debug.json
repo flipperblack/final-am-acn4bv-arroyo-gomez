@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_participantes.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_participantes.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_ver_grupo.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_ver_grupo.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_resumen.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_resumen.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\drawable_scrollview_background.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\drawable\\scrollview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\font\\poppins.xml"
+    },
+    {
+        "merged": "com.example.grupofacil.app-merged_res-39:/layout_dialog_register.xml.flat",
+        "source": "com.example.grupofacil.app-main-41:/layout/dialog_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_nombre.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_nombre.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_descripcion.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_descripcion.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_dialog_register.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\dialog_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-merged_res-39:\\layout_activity_configuracion.xml.flat",
+        "source": "C:\\Users\\proprietario\\.gradle\\daemon\\8.4\\com.example.grupofacil.app-main-41:\\layout\\activity_configuracion.xml"
+    }
+]

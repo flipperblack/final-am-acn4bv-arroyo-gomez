@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.androidApplication)
+    alias(libs.plugins.googleServices)
 }
 
 android {
@@ -22,6 +23,7 @@ android {
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
@@ -29,6 +31,7 @@ android {
 }
 
 dependencies {
+    implementation(platform("com.google.firebase:firebase-bom:33.1.2")) // Asegura compatibilidad de Firebase
 
     implementation(libs.appcompat)
     implementation(libs.material)
@@ -37,6 +40,8 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
-    implementation("com.google.code.gson:gson:2.8.6")
 
+    implementation("com.google.code.gson:gson:2.8.6")
+    implementation("com.google.firebase:firebase-auth") // Biblioteca de autenticación de Firebase
+    implementation("com.google.firebase:firebase-firestore") // Biblioteca de Firestore para Java
 }
